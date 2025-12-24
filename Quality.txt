@@ -1,0 +1,6 @@
+# Image
+-    < 600  px width - Very Low
+- 600–1000  px width - Low
+- 1000–1500 px width - Medium
+- 1500–2000 px width - High
+- 2000–3840 px width - Very High / HD+

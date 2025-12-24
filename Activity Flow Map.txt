@@ -1,0 +1,24 @@
+Activity Flow Map
+
+# Crate Table Activity
+Step 1: Create Table Access File
+Step 2: Record new Table in [Tables] Table
+Step 3: Add new Table to EventImpact Table and Update Events & EventPeriods Tables
+Step 4: Update Data Collections File
+Step 5: Upload Data Materials to GitHub
+
+
+# Work Knowledge Activity
+Step 1: Download and Record Sources in Sources table and in source file in Resource folder
+Step 2: Record Knowledge in Database
+Step 3: Record as Folders in UploadsOrCreatedFolders
+Step 4: Update Data Collections
+Step 5: Upload Knowledge Materials and Sources Materials to GitHub
+
+
+# Download Manga Volume Activity
+Step 1: Download and Record Sources in Sources table and in source file in Resource folder
+Step 2: Record in Manga Table
+Step 3: Record as Folders in UploadsOrCreatedFolders
+Step 4: Update SequentialArt Collection and Sources Collections
+Step 5: Upload Manga and Sources Materials to GitHub

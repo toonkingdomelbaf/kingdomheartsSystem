@@ -1,0 +1,149 @@
+# wait
+	|Entertainment|---
+
+
+	|Chapters|---
+		- Section 2.1: Science: Intro to Life science
+		- Section 2.1: Computing: Intro to computer science ch1
+		- Section 2.1: Skills: Theoretical - Types of Memory
+		- Section 2.1: Linguistics: Introduction to Language and Communication - ch3
+		- Section 2.1: Subject: computer user skills - Computers - Computer Basics
+
+
+
+	|Social|---
+
+
+
+	|Work|---
+		- create Ecommerce site by springboot java
+		- Study crm application and Salesforce AI CRM
+		- Job Applied to 30 company
+
+
+	|Work knowledge|---
+
+
+
+	|System|---
+	
+
+	|Upload|---
+	- GitHub
+		* Programs -> GitHub: C:\GitHub\kingdomheartsResources\Programs for help\2-My Apps
+		* Data -> GitHub: C:\GitHub\KingdomheartsData\Data\
+		* Automation -> Flash: ..Resources\Programs for help\2-My Apps
+    - Flash
+        * Resources
+	    * Standards
+        * knowledge
+	    * Skills
+	    * Music
+	    * Manga
+	    * Games
+	    * Miscellaneous		
+
+
+# queue
+	- web full stack - Front-End
+	- web full stack - Back-End
+	- Section 1.4: Computing: Intro to computer science ch0
+	- Download Pupa manage Vol 3	
+	- create two cv one for develoment and one for testing
+    - Uploads to flash
+       * Resources
+	   * Standards
+       * knowledge
+	   * Skills
+	   * Music
+	   * Manga
+	   * Games
+	   * Miscellaneous	
+	- Download Pupa manage Vol 4
+	- Section 1.4: Skills: Theoretical - Processes of Memory
+	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
+	- web full stack - Front-End - HTML
+	- Download Pupa manage Vol 5
+	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+	- Create python program to find files with name or cotanis or patterns 
+	- Create python program to find and replace files name 
+	- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]	
+	- create python program to Database Management Tool
+		* don't forget to fix row range problem it takE wrong row_range number
+		* make TVD Order values according to label if have label
+	- web full stack - Front-End - CSS
+	- Download First Anime staff -> Pupa anime
+	- Create python program to compare between two text and Highlight the difference	
+	- Create python program to Create transfer file
+	- Create Blueprint for Body Metrics - body parts (describe each part of body)
+	- Create Blueprint for Body Metrics - body positions (describe each part of body)
+	- Create Blueprint for Body Metrics - body Movement (describe each part of body)	
+	- Download First movie staff  -> (Roundhay Garden Scene 1888)
+	- create in Information at Basics Category - Explanation SubCategory - [Term, Definition, Definition, Symbol, character, word and types (root word, Prefixes and Suffixes)
+		phrase, Sentence]
+	- create in Information at Basics Category - Explanation SubCategory - [Abstraction, Specification, Generalization, Idea, concept, Mental construct]			
+	- create in Information at Thoughts Category - mental sprital - which is Abstraction of thome methink activityes process
+	
+	- Create GamesWorksContent Table in Games	
+	- Create SequentialArtWorksContent Table in SequentialArt	
+	- Create AnimeWorksContent Table in Anime	
+	- Create SeriesWorksContent Table in Series	
+	- Create MoviesWorksContent Table in Movies	
+	
+	- Create Levels Table in Games
+	- Create PersonsActivityLog Table in Entities Database
+	- Create Community Table in Entities Database
+	- Create CommunityChangeLog Table in Entities Database
+	- Create CommunityActivityLog Table in Entities Database
+	- Create PracticingSkillLog  Table in Skils
+	- Create StudyingknowledgeLog Table in Knowledge	
+	- Create ReadingLiteratureLog Table in Literature	
+	- Create ReadingSequentialArtLog Table in SequentialArt
+	- Create ListeningMusicLog Table in Games	
+	- Create PlayGamesLog Table in Games	
+	- Create WatchingAnimeLog Table in Anime	
+	- Create WatchingSeriesLog Table in Series		
+	- Create WatchingMoviesLog Table in Movies		
+	- Download First series -> Chernobyl (2019)
+	- Download game staff ->  Commandos: Beyond the Call of Duty	
+	
+	
+
+# in Progress
+	- Data
+	- Handle empty replace state
+	- Check replace it replace by empty which mean removed matched text
+	- Check replace it replace matched text by spaces repaced by it
+	- create insert section all this applied to what you find
+		* determine posisiton: 1) same line 2) line after same line 3) line before same line 
+			. if same line Before or after in same line
+			. position number of line 0 line, 1 line, 2 line, .... and so on
+			   ex; IF CHOOSE AFTER NOTE: SAME FOR BEFORE
+				   Line 0 MEAN: in same line (note if choose line 0
+				   LINE 1 MEAN: LINE AFTER THE intended POSIITON
+				   LINE 2 MEAN: LINE AFTER THE LINE 1
+				   LINE 3 MEAN: LINE AFTER THE LINE 2	   
+		* determine direction which is after or before
+		* determine insert content Type 1) space 2) space line 3) content 
+		* determine number of insert content (how much you insert content)
+		* give me way to applied theis fodolerr all field or determine what i want to applied from fine
+	- create move section to move line text up or down on in another text line
+		* determine what do you want ot shift
+		* shfit position up or down
+		* shfit number
+	- web full stack - World Wide Web - Web Server
+	- web full stack - World Wide Web - Web Protocols
+	- web full stack - World Wide Web - Domain Name System
+	- web full stack - World Wide Web - Web API
+	- web full stack - World Wide Web - Web Service APIs
+	- web full stack - World Wide Web - Web Security
+	- web full stack - World Wide Web - Design pattern in web technologies
+	- web full stack - World Wide Web - Proxy
+	- web full stack - World Wide Web - Systems
+	- web full stack - World Wide Web - Mobile Networks
+	- web full stack - World Wide Web - Web Technologies
+	- web full stack - World Wide Web - full stack
+   
+
+
+# finished
