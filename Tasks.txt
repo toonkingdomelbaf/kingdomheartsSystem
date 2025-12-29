@@ -26,6 +26,10 @@
 
 
 	|System|---
+	- create Financial Blueprint Documentation 
+	- create topic to determnie static Savings file Financial Blueprint Documentation (which is all cash and invsetment vlues must have before to pay)
+	- create Measurment file topic at Standards Blueprint Documentation
+	- create Measurment file to determine Financial Level Measurement (Rich, poor, or middle class(
 	
 
 	|Upload|---
@@ -88,8 +92,7 @@
 	- Create SequentialArtWorksContent Table in SequentialArt	
 	- Create AnimeWorksContent Table in Anime	
 	- Create SeriesWorksContent Table in Series	
-	- Create MoviesWorksContent Table in Movies	
-	
+	- Create MoviesWorksContent Table in Movies		
 	- Create Levels Table in Games
 	- Create PersonsActivityLog Table in Entities Database
 	- Create Community Table in Entities Database
@@ -104,27 +107,47 @@
 	- Create WatchingAnimeLog Table in Anime	
 	- Create WatchingSeriesLog Table in Series		
 	- Create WatchingMoviesLog Table in Movies		
+	- update Sources table to add two columns
+	   * column to recored yes or not if it has higher resolution in same platform
+	   * column to recored ids of same record source with different resolution in same platform
+	   * column to recored ids of same record source with different resolution in other platform
+	   * column to recored unique label to identitfy different sources of same content
+	      . it recored like this (Manga_1, Anime_2, ScienceWiki_34 ...)
+	- update Knowledge table to add same field cotent has different resolution or different source 	
+	- update Skills table to add same field cotent has different resolution or different source 
+	- update Literature table to add same field cotent has different resolution or different source 
+	- update Music table to add same field cotent has different resolution or different source 
+	- update Games table to add same field cotent has different resolution or different source 
+	- update Series table to add same field cotent has different resolution or different source 	
+	- update Movies table to add same field cotent has different resolution or different source 
 	- Download First series -> Chernobyl (2019)
 	- Download game staff ->  Commandos: Beyond the Call of Duty	
 	
 	
 
 # in Progress
-	- Data
-	- Handle empty replace state
-	- Check replace it replace by empty which mean removed matched text
-	- Check replace it replace matched text by spaces repaced by it
+    - in result check number of finds and number of replace in top after file path	
+	- make find search space also
+	- add new section is content type
+		. add types all, tables only, headings only, tables and headings only
+		. make default is all and make themm all diable if file is not doc
+	- checkbox to applied default heading text format 1,2,3,4,5,6 according to mircosoft document standard format 
+		.size, family, color
+	- archieved old Automation versions	
+
+	
 	- create insert section all this applied to what you find
 		* determine posisiton: 1) same line 2) line after same line 3) line before same line 
 			. if same line Before or after in same line
 			. position number of line 0 line, 1 line, 2 line, .... and so on
 			   ex; IF CHOOSE AFTER NOTE: SAME FOR BEFORE
 				   Line 0 MEAN: in same line (note if choose line 0
-				   LINE 1 MEAN: LINE AFTER THE intended POSIITON
-				   LINE 2 MEAN: LINE AFTER THE LINE 1
-				   LINE 3 MEAN: LINE AFTER THE LINE 2	   
+				   LINE 1 MEAN: LINE AFTER THE intended POSIITON or LINE BEFORE THE intended POSIITON
+				   LINE 2 MEAN: LINE AFTER THE LINE 1 or LINE BEFORE THE LINE 1
+				   LINE 3 MEAN: LINE AFTER THE LINE 2 or LINE BEFORE THE LINE 2	    
 		* determine direction which is after or before
 		* determine insert content Type 1) space 2) space line 3) content 
+			. GIVE ME TEXT FIELD TO INSERT COTNET MAKE IT disable if is not contnent type
 		* determine number of insert content (how much you insert content)
 		* give me way to applied theis fodolerr all field or determine what i want to applied from fine
 	- create move section to move line text up or down on in another text line
