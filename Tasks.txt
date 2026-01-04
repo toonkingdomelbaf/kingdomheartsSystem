@@ -45,7 +45,8 @@
 	    * Music
 	    * Manga
 	    * Games
-	    * Miscellaneous		
+	    * Miscellaneous	
+		* System - Archive
 
 
 # queue
@@ -69,7 +70,7 @@
 	- web full stack - Front-End - HTML
 	- Download Pupa manage Vol 5
 	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
-	- Create python program to find files with name or cotanis or patterns 
+	- Create python program to find files with name or extensions or patterns 
 	- Create python program to find and replace files name 
 	- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]	
 	- create python program to Database Management Tool
@@ -126,16 +127,12 @@
 	
 
 # in Progress
-    - in result check number of finds and number of replace in top after file path	
-	- make find search space also
-	- add new section is content type
-		. add types all, tables only, headings only, tables and headings only
-		. make default is all and make themm all diable if file is not doc
-	- checkbox to applied default heading text format 1,2,3,4,5,6 according to mircosoft document standard format 
-		.size, family, color
-	- archieved old Automation versions	
-
-	
+	- upload
+	   . Standards
+	   . Miscellaneous
+	   . System
+	   . Skills
+	   . Data
 	- create insert section all this applied to what you find
 		* determine posisiton: 1) same line 2) line after same line 3) line before same line 
 			. if same line Before or after in same line
@@ -149,7 +146,7 @@
 		* determine insert content Type 1) space 2) space line 3) content 
 			. GIVE ME TEXT FIELD TO INSERT COTNET MAKE IT disable if is not contnent type
 		* determine number of insert content (how much you insert content)
-		* give me way to applied theis fodolerr all field or determine what i want to applied from fine
+		* give me way to applied these folder all field or determine what i want to applied from fine
 	- create move section to move line text up or down on in another text line
 		* determine what do you want ot shift
 		* shfit position up or down
