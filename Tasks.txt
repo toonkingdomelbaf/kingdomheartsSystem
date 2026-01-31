@@ -137,31 +137,28 @@
 	- Download game staff ->  Commandos: Beyond the Call of Duty
 	- add related account id column to StorageDrives table
 	- update all update log to make  provider point to person table [replace this "Motasem Essam -> motasem.essam.prototypedoteg.com@gmail.com"]
-	
+	- transfet current music to Flash
 	
 
 # in Progress
-	- update Data, Archive, Standards, Resources, Automation, Skills and Knowledge to github
 	- Software Engineering Fundamentals - Web Technologies
 	    * shot number: 1 - session number: 19_Success - [1/26/2026 3:41:00 AM ->
 	- web full stack - World Wide Web - full stack
 	- web full stack - Front-End
 	- web full stack - Back-End   
-	- update Data, Archive, Standards, Resources, Automation, Skills and Knowledge to github
+	- update Data and Knowledge to github
+	- create File Copy Gui in Path: D:\Main\1-Desktop\2-Desktop Content\File Copy Gui
 
 
 # finished
-	- rewrite source
-	 * Data
-	 * Archive
-	 * Standards
-	 * Resources
-	 * Knowledge
-				.1-Academic
-				.2-Science
-				   - 0-Intro to Science
-				   - 1-Formal sciences
-				   - 2-Natural Science
-				   - 3-Social science
-				   - 4-Applied science
-				.3-Work knowledge
+	- update Data, Archive, Standards, Resources, Skills, Knowledge and Miscellaneous to github			
+		 * Archive
+		 * Standards
+		 * Resources
+		 * Knowledge
+		    . 1-Academic
+			. 2-Science
+			. 3-Work knowledge
+		 * Miscellaneous
+		 * Skills	
+		 * Data	 
