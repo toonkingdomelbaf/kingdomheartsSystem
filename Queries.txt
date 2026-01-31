@@ -1,0 +1,21 @@
+Queries
+#Data Path: Work Folder -> Work Database -> WorkKnowledge Table
+	* MAKE Index, ScienceCategoryIndex AND ScienceIndex = ID
+				"
+				UPDATE [6-WorkKnowledge]
+				SET
+					[Index] = [ID],
+					[ScienceCategoryIndex] = [ID],
+					[ScienceIndex] = [ID];
+				"
+	* UPDATE FieldIndex  WHICH START FROM ONE AND THEN INCREMNT UNTILL END BUT IF FieldName column = Software Engineering Fundamentals 		
+				"
+				UPDATE [6-WorkKnowledge] AS T
+				SET T.FieldIndex =
+					DCount(
+						"*",
+						"[6-WorkKnowledge]",
+						"FieldName='Software Engineering Fundamentals' AND ID <= " & T.ID
+					)
+				WHERE T.FieldName = 'Software Engineering Fundamentals';
+				"
