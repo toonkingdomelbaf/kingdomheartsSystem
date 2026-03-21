@@ -1,3 +1,11 @@
+# Future tasks
+ - create program to read and write docs file 
+ - create program to read and write acess file
+ - create program to convert text from form to form 
+ - create program to file type from form to form 
+  
+ 
+
 # wait
 	|Entertainment|---
 
@@ -19,9 +27,14 @@
 		- create Ecommerce site by springboot java
 		- Study crm application and Salesforce AI CRM
 		- Job Applied to 30 company
+		- remake and review cv by help chatgpt and differnent ai by asking them you are expert hr. review this cv and make enhencment to it
 
 
 	|Work knowledge|---
+		- Text-based formats - 
+		   * JSON 
+		   * XML 
+		   * CSV 
 
 
 
@@ -30,6 +43,10 @@
 	- create topic to determnie static Savings file Financial Blueprint Documentation (which is all cash and invsetment vlues must have before to pay)
 	- create Measurment file topic at Standards Blueprint Documentation
 	- create Measurment file to determine Financial Level Measurement (Rich, poor, or middle class(
+	- create python program - Conversion program 
+				- to convert from ts to mp4 
+				- to convert from mp4 to ts
+    - add in TaskLog in tasks and work tasks table symbol indicat that this edn of task not snapshot only
 	
 
 	|Upload|---
@@ -50,6 +67,7 @@
 
 
 # queue
+	- in Task Blueprint Documentation add new thing in task file add future tasks for very far tasks
 	- create new topic to Task Blueprint Documentation,
 		* give format and style to describe task in task file
 	    * has this format (puspose and blueprint(structure or mechanisme) 
@@ -85,39 +103,22 @@
 	- Download First Anime staff -> Pupa anime
 	- Create python program to compare between two text and Highlight the difference	
 	- Create python program to Create transfer file
-	- Create Blueprint for Body Metrics - body parts (describe each part of body)
-	- Create Blueprint for Body Metrics - body positions (describe each part of body)
-	- Create Blueprint for Body Metrics - body Movement (describe each part of body)	
+	- Create Standards for Body Metrics - body parts (describe each part of body)
+	- Create Standards for Body Metrics - body positions (describe each part of body)
+	- Create Standards for Body Metrics - body Movement (describe each part of body)	
 	- Download First movie staff  -> (Roundhay Garden Scene 1888)
 	- create in Information at Basics Category - Explanation SubCategory - [Term, Definition, Definition, Symbol, character, word and types (root word, Prefixes and Suffixes)
 		phrase, Sentence]
-
 	- create in Information at Basics Category - Explanation SubCategory - [Abstraction, Specification, Generalization, Idea, concept, Mental construct, Thinking, save, Imagination]
 	- create in Information Science, technology, civilization, art and creativity
 	- create in Information at Thoughts Category - mental sprital - which is Abstraction of thome methink activityes process
 	- create tabel in storage to label paths
-	- create Suggestion download file topic in Standards Blueprint Documentation
-	- Create GamesWorksContent Table in Games	
-	- Create SequentialArtWorksContent Table in SequentialArt	
-	- Create AnimeWorksContent Table in Anime	
-	- Create SeriesWorksContent Table in Series	
-	- Create MoviesWorksContent Table in Movies		
-	- Create Levels Table in Games
-	- Create Community Table in Entities Database
-    - Create PersonsActivityLog Table in Entities Database
-	- Create CommunityChangeLog Table in Entities Database
-	- Create CommunityActivityLog Table in Entities Database
-	- Create PracticingSkillLog  Table in Skils
-	- Create StudyingknowledgeLog Table in Knowledge	
-	- Create ReadingLiteratureLog Table in Literature	
-	- Create ReadingSequentialArtLog Table in SequentialArt
-	- Create ListeningMusicLog Table in Games	
-	- Create PlayGamesLog Table in Games	
-	- Create WatchingAnimeLog Table in Anime	
-	- Create WatchingSeriesLog Table in Series		
-	- Create WatchingMoviesLog Table in Movies		
+	- create Suggestion file topic in Standards Blueprint Documentation have
+	   * Suggestion download catgory
+	   * knoweldge topics catgory
 	
-	- update task table at TaskTimeIntervals columnadd total of ids that you will work on it or added
+	
+	
 	
 	- update Sources table to add two columns
 	   * column to recored yes or not if it has higher resolution in same platform
@@ -133,32 +134,87 @@
 	- update Series table to add same field cotent has different resolution or different source 	
 	- update Movies table to add same field cotent has different resolution or different source 
 				* shot number: 1 - session number: 16_Success - [1/21/2026 7:08 AM to 1/21/2026 9:30 AM] Total 2 hours 22 minutes
+				
 	- Download First series -> Chernobyl (2019)
 	- Download game staff ->  Commandos: Beyond the Call of Duty
 	- add related account id column to StorageDrives table
-	- update all update log to make  provider point to person table [replace this "Motasem Essam -> motasem.essam.prototypedoteg.com@gmail.com"]
 	- transfet current music to Flash
+		- rewrite ContentStorage database to have two more table 
+		- one for all main folder to record folder and file tree strutures 
+		- other for sub folders according to fields and topics to record folder and file tree strutures
+		- rewrite data cells of strorage to reference to this two tables ids at
+		   * Knowledge databases
+		   * Skills databases
+		   * Links databases
+		   * Sources databases
+		   * Standards databases
+		   * Work databases
+
+
 	
 
-# in Progress
-	- Software Engineering Fundamentals - Web Technologies
-	    * shot number: 1 - session number: 19_Success - [1/26/2026 3:41:00 AM ->
-	- web full stack - World Wide Web - full stack
-	- web full stack - Front-End
-	- web full stack - Back-End   
-	- update Data and Knowledge to github
-	- create File Copy Gui in Path: D:\Main\1-Desktop\2-Desktop Content\File Copy Gui
+# in Progress	
+	######### complete topics in Data in Hard Disk Folder #########
+    - in work knwoedlge add topics for 
+	   * 
+	   * database
+	   * data warehouses
+	   
+	-in Knowledge and WorkKnowledge tables add new column SubFieldName
+	- Version Control System	
+		* add Hook topics
+		* add github and gitlab REST API
+	   * from 2/19/2026 12:15:00 AM to 6:15:00 AM
+	   * from 2/19/2026 4:09:00 PM to  ?
+	   * from 2/20/2026 10:34:00 pm
+	   - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
+	   - Upload Miscellaneous, all Knoweldge and workKnoweldge to github
+	- create Python program make collection files
+	- create new session rule topic which is create session success with certain event happen in certain day or more than one date	
+
+
+	- Create Community Table in Entities Database
+	- Create CommunityChangeLog Table in Entities Database	
+	
+	- Create Levels Table in Games	
+	
+	- Create GamesWorksContent Table in Games	
+	- Create SequentialArtWorksContent Table in SequentialArt	
+	- Create AnimeWorksContent Table in Anime	
+	- Create SeriesWorksContent Table in Series	
+	- Create MoviesWorksContent Table in Movies	
+	
+    - Create PersonsActivityLog Table in Entities Database	
+	- Create CommunityActivityLog Table in Entities Database	
+	- Create PracticingSkillLog  Table in Skils
+	- Create StudyingknowledgeLog Table in Knowledge	
+	- Create ReadingLiteratureLog Table in Literature	
+	- Create ReadingSequentialArtLog Table in SequentialArt
+	- Create ListeningMusicLog Table in Games	
+	- Create PlayGamesLog Table in Games	
+	- Create WatchingAnimeLog Table in Anime	
+	- Create WatchingSeriesLog Table in Series		
+	- Create WatchingMoviesLog Table in Movies	
+	- Create affairs Database to have 
+		* Habits table 
+		* Meetings table 
+		* Body Systems table
+		* Private Documents
+	
+	- in Resources Blueprint Documentation add Content Acquisition Log Topic
+	- in source table Rewrite Content Acquisition Log column
+    - create python program ro comprasion between two textTechniques contents and highlight difference
+	- update Data, Resources, Knowledge to github
 
 
 # finished
-	- update Data, Archive, Standards, Resources, Skills, Knowledge and Miscellaneous to github			
-		 * Archive
-		 * Standards
-		 * Resources
-		 * Knowledge
-		    . 1-Academic
-			. 2-Science
-			. 3-Work knowledge
-		 * Miscellaneous
-		 * Skills	
-		 * Data	 
+	- rewrite all knwoedlfe files that has this source type -> ScreenShots
+		* Which edit "From [Windows]" to "From [Operating System: Windows]" 
+		* Example 
+		# Source: ScreenShots Source: Provided by: [Persons Table -> ID Column: 1, Name_En Column: Motasem Essam] -> Tool: [Lightshot Program] -> From [Windows] on [2/19/2026]
+	-in Knowledge and WorkKnowledge tables add new column SubFieldName
+	   * 1-Science and Formal Topics
+	   * 2-Natural Topics
+	   * 3-Social Topics
+	   * 4-Applied Topics
+	- One piece Watched - Epsiode 1
