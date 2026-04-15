@@ -20,6 +20,9 @@
 
 
 	|Social|---
+	   - your mother want to buy new mobile suggest for her suitable mobile according to 
+	      * budget -> 10000 
+		  * possibilities -> good not prefect
 
 
 
@@ -31,10 +34,29 @@
 
 
 	|Work knowledge|---
+		- Markup Languages -
+		   * HTML
+		   * XML
+		   * Markdown
+		   * LaTeX
+		   * SGML
+		- Query Languages - 
+		   * SQL 
+		   * XPath
+		   * GraphQL
+		   * LINQ
+		- Style Sheet Languages - 
+		   * CSS 
+		   * XSL
+		   * Sass
+		   * LESS
+		   * SVG Styling
 		- Text-based formats - 
 		   * JSON 
 		   * XML 
 		   * CSV 
+		- javascript
+		   * AJAX 
 
 
 
@@ -46,7 +68,8 @@
 	- create python program - Conversion program 
 				- to convert from ts to mp4 
 				- to convert from mp4 to ts
-    - add in TaskLog in tasks and work tasks table symbol indicat that this edn of task not snapshot only
+	- create python program - Screenshot program 	
+
 	
 
 	|Upload|---
@@ -67,7 +90,7 @@
 
 
 # queue
-	- in Task Blueprint Documentation add new thing in task file add future tasks for very far tasks
+	- in Task Blueprint Documentation add new thing in task file add future tasks file for very far tasks
 	- create new topic to Task Blueprint Documentation,
 		* give format and style to describe task in task file
 	    * has this format (puspose and blueprint(structure or mechanisme) 
@@ -133,7 +156,8 @@
 	- update Games table to add same field cotent has different resolution or different source 
 	- update Series table to add same field cotent has different resolution or different source 	
 	- update Movies table to add same field cotent has different resolution or different source 
-				* shot number: 1 - session number: 16_Success - [1/21/2026 7:08 AM to 1/21/2026 9:30 AM] Total 2 hours 22 minutes
+
+
 				
 	- Download First series -> Chernobyl (2019)
 	- Download game staff ->  Commandos: Beyond the Call of Duty
@@ -154,35 +178,29 @@
 	
 
 # in Progress	
-	######### complete topics in Data in Hard Disk Folder #########
-    - in work knwoedlge add topics for 
-	   * 
-	   * database
-	   * data warehouses
-	   
-	-in Knowledge and WorkKnowledge tables add new column SubFieldName
-	- Version Control System	
-		* add Hook topics
-		* add github and gitlab REST API
-	   * from 2/19/2026 12:15:00 AM to 6:15:00 AM
-	   * from 2/19/2026 4:09:00 PM to  ?
-	   * from 2/20/2026 10:34:00 pm
+	   - Version Control System	
+			* Start - filter and rewrite date at topic - "Git GUI"
 	   - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
 	   - Upload Miscellaneous, all Knoweldge and workKnoweldge to github
+	   
+    - in work knwoedlge add topics for 
+	   * database
+	   * data warehouses
 	- create Python program make collection files
 	- create new session rule topic which is create session success with certain event happen in certain day or more than one date	
 
 
 	- Create Community Table in Entities Database
 	- Create CommunityChangeLog Table in Entities Database	
-	
 	- Create Levels Table in Games	
 	
-	- Create GamesWorksContent Table in Games	
-	- Create SequentialArtWorksContent Table in SequentialArt	
-	- Create AnimeWorksContent Table in Anime	
-	- Create SeriesWorksContent Table in Series	
-	- Create MoviesWorksContent Table in Movies	
+	
+	- Create GamesContent Table in Games	
+	- Create SequentialArtContent Table in SequentialArt	
+	- Create AnimeContent Table in Anime	
+	- Create SeriesContent Table in Series	
+	- Create MoviesContent Table in Movies	
+	
 	
     - Create PersonsActivityLog Table in Entities Database	
 	- Create CommunityActivityLog Table in Entities Database	
@@ -195,6 +213,7 @@
 	- Create WatchingAnimeLog Table in Anime	
 	- Create WatchingSeriesLog Table in Series		
 	- Create WatchingMoviesLog Table in Movies	
+	
 	- Create affairs Database to have 
 		* Habits table 
 		* Meetings table 
@@ -218,3 +237,22 @@
 	   * 3-Social Topics
 	   * 4-Applied Topics
 	- One piece Watched - Epsiode 1
+	- cheack science date is correct with task log and date and topics documents itself
+	   * all chapters - Science
+	   * all chapters - Linguistics
+	   * all chapters - Computing
+	   * all chapters - Skills 
+	   * WorkKnowledge
+	      . Testing - ISTQB Foundation Level - Rania Mokhtar -SW Testing
+		  . Testing - ISTQB Foundation Level - ISTQB_CTFL_Syllabus_v4.0.1 13:28	
+	-Uploads to GitHub
+	   * Knowledge
+	      . Science
+		     .. 0-Intro to Science
+		     .. 1-Formal sciences
+		     .. 2-Natural Science
+		     .. 3-Social science
+		     .. 4-Applied science
+	      . Work knowledge
+			 .. 1-Software Engineering
+			    ... Testing

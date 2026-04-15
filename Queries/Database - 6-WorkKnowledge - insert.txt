@@ -1,0 +1,54 @@
+INSERT INTO [6-WorkKnowledge] 
+(
+    [index],
+    ScienceCategoryOrder,
+    ScienceCategoryIndex,
+    ScienceCategory,
+    ScienceIndex,
+    ScienceName,
+    FieldLabel,
+    FieldIndex,
+    FieldName,
+    SubFieldName,
+    TopicTypeNameOrder,
+    TopicTypeName,
+    FolderOrder,
+    FolderName,
+    FilesOrder,
+    TopicName,
+    TopicsDescription,
+    Source,
+    [Source Summary],
+    Location,
+    StoreDate,
+    UpdateDate,
+    UpdateLog
+)
+SELECT 
+    T.[index] + 1,
+    T.ScienceCategoryOrder,
+    T.ScienceCategoryIndex + 1,
+    T.ScienceCategory,
+    T.ScienceIndex + 1,
+    T.ScienceName,
+    T.FieldLabel,
+    T.FieldIndex + 1,
+    "Testing",
+    T.SubFieldName,
+    T.TopicTypeNameOrder,
+    "My Source",
+    T.FolderOrder,
+    T.FolderName,
+    T.FilesOrder + 1,
+    NULL,
+    NULL,
+    T.Source,
+    T.[Source Summary],
+    "StorageType: Cloud -> Platform: GitHub -> Account: topicsscience -> Repository: kingdomheartsknowledge -> Path: Knowledge/3-Work knowledge/1-Software Engineering/1-Testing/..",
+    T.StoreDate,
+    T.UpdateDate,
+    T.UpdateLog
+FROM [6-WorkKnowledge] AS T
+WHERE T.[index] = (
+    SELECT MAX([index]) FROM [6-WorkKnowledge]
+);
