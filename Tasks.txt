@@ -178,18 +178,7 @@
 	
 
 # in Progress	
-	   - Version Control System	
-			* Start - filter and rewrite date at topic - "Git GUI"
-	   - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
-	   - Upload Miscellaneous, all Knoweldge and workKnoweldge to github
-	   
-    - in work knwoedlge add topics for 
-	   * database
-	   * data warehouses
-	- create Python program make collection files
-	- create new session rule topic which is create session success with certain event happen in certain day or more than one date	
-
-
+	- in source table Rewrite Content Acquisition Log column
 	- Create Community Table in Entities Database
 	- Create CommunityChangeLog Table in Entities Database	
 	- Create Levels Table in Games	
@@ -213,15 +202,28 @@
 	- Create WatchingAnimeLog Table in Anime	
 	- Create WatchingSeriesLog Table in Series		
 	- Create WatchingMoviesLog Table in Movies	
+
 	
 	- Create affairs Database to have 
 		* Habits table 
 		* Meetings table 
 		* Body Systems table
 		* Private Documents
+
+
+	   - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
+	   - Upload Miscellaneous, all Knoweldge and workKnoweldge to github
+	   
+    - in work knwoedlge add topics for 
+	   * database
+	   * data warehouses
+	- create Python program make collection files
+	- create new session rule topic which is create session success with certain event happen in certain day or more than one date	
+
+
+
 	
 	- in Resources Blueprint Documentation add Content Acquisition Log Topic
-	- in source table Rewrite Content Acquisition Log column
     - create python program ro comprasion between two textTechniques contents and highlight difference
 	- update Data, Resources, Knowledge to github
 
@@ -236,7 +238,8 @@
 	   * 2-Natural Topics
 	   * 3-Social Topics
 	   * 4-Applied Topics
-	- One piece Watched - Epsiode 1
+	- One piece Watched - Epsiode 1 - all
+	- One piece Watched - Epsiode 2 - all
 	- cheack science date is correct with task log and date and topics documents itself
 	   * all chapters - Science
 	   * all chapters - Linguistics
@@ -244,15 +247,5 @@
 	   * all chapters - Skills 
 	   * WorkKnowledge
 	      . Testing - ISTQB Foundation Level - Rania Mokhtar -SW Testing
-		  . Testing - ISTQB Foundation Level - ISTQB_CTFL_Syllabus_v4.0.1 13:28	
-	-Uploads to GitHub
-	   * Knowledge
-	      . Science
-		     .. 0-Intro to Science
-		     .. 1-Formal sciences
-		     .. 2-Natural Science
-		     .. 3-Social science
-		     .. 4-Applied science
-	      . Work knowledge
-			 .. 1-Software Engineering
-			    ... Testing
+		  . Testing - ISTQB Founda	tion Level - ISTQB_CTFL_Syllabus_v4.0.1 13:28	
+
