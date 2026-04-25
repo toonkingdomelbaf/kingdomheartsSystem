@@ -64,12 +64,21 @@
 	- create Financial Blueprint Documentation 
 	- create topic to determnie static Savings file Financial Blueprint Documentation (which is all cash and invsetment vlues must have before to pay)
 	- create Measurment file topic at Standards Blueprint Documentation
-	- create Measurment file to determine Financial Level Measurement (Rich, poor, or middle class(
+	- create Measurment file to determine Financial Level Measurement (Rich, poor, or middle class)
 	- create python program - Conversion program 
 				- to convert from ts to mp4 
 				- to convert from mp4 to ts
-	- create python program - Screenshot program 	
+				- to convert from mp4 to mp3
+	- create python program - Video player program 
+				* play, pause, repeat single or group of videos and mp3
+				* step back and step forward by nnumber of second you want
+				* can slow motion 
+				* screen shot
+				* clip
+				* add image and text
+				
 
+	
 	
 
 	|Upload|---
@@ -90,28 +99,12 @@
 
 
 # queue
-	- in Task Blueprint Documentation add new thing in task file add future tasks file for very far tasks
-	- create new topic to Task Blueprint Documentation,
-		* give format and style to describe task in task file
-	    * has this format (puspose and blueprint(structure or mechanisme) 
-		* example the next task (i mean: create new topic to Knowledge Blueprint Documentation)
-	- create new topic to Knowledge Blueprint Documentation
-	   * Purpose: add to  any source knoweldge new section is optional it has breif denfntion to same Terminologies 
-		 it help in understand terms
-	- Section 1.4: Computing: Intro to computer science ch0
-	- Download Pupa manage Vol 3	
+
 	- create two cv one for develoment and one for testing
     - Uploads to flash
-       * Resources
-	   * Standards
-       * knowledge
-	   * Skills
-	   * Music
-	   * Manga
-	   * Games
 	   * Miscellaneous	
 	- Download Pupa manage Vol 4
-	- Section 1.4: Skills: Theoretical - Processes of Memory
+
 	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
 	- web full stack - Front-End - HTML
 	- Download Pupa manage Vol 5
@@ -177,75 +170,43 @@
 
 	
 
-# in Progress	
-	- in source table Rewrite Content Acquisition Log column
-	- Create Community Table in Entities Database
-	- Create CommunityChangeLog Table in Entities Database	
-	- Create Levels Table in Games	
-	
-	
-	- Create GamesContent Table in Games	
-	- Create SequentialArtContent Table in SequentialArt	
-	- Create AnimeContent Table in Anime	
-	- Create SeriesContent Table in Series	
-	- Create MoviesContent Table in Movies	
-	
-	
-    - Create PersonsActivityLog Table in Entities Database	
-	- Create CommunityActivityLog Table in Entities Database	
-	- Create PracticingSkillLog  Table in Skils
-	- Create StudyingknowledgeLog Table in Knowledge	
-	- Create ReadingLiteratureLog Table in Literature	
-	- Create ReadingSequentialArtLog Table in SequentialArt
-	- Create ListeningMusicLog Table in Games	
-	- Create PlayGamesLog Table in Games	
-	- Create WatchingAnimeLog Table in Anime	
-	- Create WatchingSeriesLog Table in Series		
-	- Create WatchingMoviesLog Table in Movies	
+# in Progress
+		- Section 1.4: Computing: Intro to computer science ch0 -> 6:30 AM
+        - create python program - Screenshot program 	
+		- create python program - Video Record 
+				* record your screen or camera or both
+				* record microphone or system or both
+				* convert content to gif or video
+		- create python program - Notification program to notify 
+					* battery or any system features like heat or gpu and cpu and memory use
+					* notify apps uses in certain condition 
+					* notify by time and date like birth day or meeting time
 
-	
-	- Create affairs Database to have 
-		* Habits table 
-		* Meetings table 
-		* Body Systems table
-		* Private Documents
+	    - create Python program make collection files
+	    - create python program ro comprasion between two textTechniques contents and highlight difference
+
+	    - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
+	    - Upload Miscellaneous to github
+	    - Upload all to flash
 
 
-	   - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
-	   - Upload Miscellaneous, all Knoweldge and workKnoweldge to github
+		- Download Pupa manage Vol 3	
 	   
-    - in work knwoedlge add topics for 
-	   * database
-	   * data warehouses
-	- create Python program make collection files
-	- create new session rule topic which is create session success with certain event happen in certain day or more than one date	
+	   
+        - in work knwoedlge add topics for 
+	       * database
+	       * data warehouses
 
-
-
-	
-	- in Resources Blueprint Documentation add Content Acquisition Log Topic
-    - create python program ro comprasion between two textTechniques contents and highlight difference
-	- update Data, Resources, Knowledge to github
-
+	    - in Task Blueprint Documentation add new thing in task file add future tasks file for very far tasks
+	    - create new topic to Task Blueprint Documentation,
+	       * give format and style to describe task in task file
+	       * has this format (puspose and blueprint(structure or mechanisme) 
+	       * example the next task (i mean: create new topic to Knowledge Blueprint Documentation)
+	    - create new topic to Knowledge Blueprint Documentation
+	       * Purpose: add to  any source knoweldge new section is optional it has breif denfntion to same Terminologies 
+	    	 it help in understand terms
+	    
 
 # finished
-	- rewrite all knwoedlfe files that has this source type -> ScreenShots
-		* Which edit "From [Windows]" to "From [Operating System: Windows]" 
-		* Example 
-		# Source: ScreenShots Source: Provided by: [Persons Table -> ID Column: 1, Name_En Column: Motasem Essam] -> Tool: [Lightshot Program] -> From [Windows] on [2/19/2026]
-	-in Knowledge and WorkKnowledge tables add new column SubFieldName
-	   * 1-Science and Formal Topics
-	   * 2-Natural Topics
-	   * 3-Social Topics
-	   * 4-Applied Topics
-	- One piece Watched - Epsiode 1 - all
-	- One piece Watched - Epsiode 2 - all
-	- cheack science date is correct with task log and date and topics documents itself
-	   * all chapters - Science
-	   * all chapters - Linguistics
-	   * all chapters - Computing
-	   * all chapters - Skills 
-	   * WorkKnowledge
-	      . Testing - ISTQB Foundation Level - Rania Mokhtar -SW Testing
-		  . Testing - ISTQB Founda	tion Level - ISTQB_CTFL_Syllabus_v4.0.1 13:28	
+		- Section 1.4: Skills: Theoretical - Processes of Memory
 
