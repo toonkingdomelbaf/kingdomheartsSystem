@@ -1,0 +1,27 @@
+# wait
+	|Entertainment|---
+
+	|Chapters|---
+
+	|Social|---
+
+	|Work|---
+	---|Freelancing Work|---
+	------|Design & Development|---
+	------|Writing & Content Creation|---
+
+	---|Company Work|---
+	------|Administrative & Management|---
+	------|Technical & Engineering|---
+
+	|Work knowledge|---
+
+	|System|---
+
+	|Upload|---
+
+# queue
+
+# in Progress
+
+# finished

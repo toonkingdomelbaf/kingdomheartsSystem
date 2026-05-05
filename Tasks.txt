@@ -106,7 +106,7 @@
 	- Download Pupa manage Vol 4
 
 	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
-	- web full stack - Front-End - HTML
+
 	- Download Pupa manage Vol 5
 	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
 	- Create python program to find files with name or extensions or patterns 
@@ -131,47 +131,22 @@
 	- create tabel in storage to label paths
 	- create Suggestion file topic in Standards Blueprint Documentation have
 	   * Suggestion download catgory
-	   * knoweldge topics catgory
-	
-	
-	
-	
-	- update Sources table to add two columns
-	   * column to recored yes or not if it has higher resolution in same platform
-	   * column to recored ids of same record source with different resolution in same platform
-	   * column to recored ids of same record source with different resolution in other platform
-	   * column to recored unique label to identitfy different sources of same content
-	      . it recored like this (Manga_1, Anime_2, ScienceWiki_34 ...)
-	- update Knowledge table to add same field cotent has different resolution or different source 	
-	- update Skills table to add same field cotent has different resolution or different source 
-	- update Literature table to add same field cotent has different resolution or different source 
-	- update Music table to add same field cotent has different resolution or different source 
-	- update Games table to add same field cotent has different resolution or different source 
-	- update Series table to add same field cotent has different resolution or different source 	
-	- update Movies table to add same field cotent has different resolution or different source 
-
-
-				
+	   * knoweldge topics catgory			
 	- Download First series -> Chernobyl (2019)
 	- Download game staff ->  Commandos: Beyond the Call of Duty
 	- add related account id column to StorageDrives table
 	- transfet current music to Flash
-		- rewrite ContentStorage database to have two more table 
-		- one for all main folder to record folder and file tree strutures 
-		- other for sub folders according to fields and topics to record folder and file tree strutures
-		- rewrite data cells of strorage to reference to this two tables ids at
-		   * Knowledge databases
-		   * Skills databases
-		   * Links databases
-		   * Sources databases
-		   * Standards databases
-		   * Work databases
+	
+
 
 
 	
 
 # in Progress
-		- Section 1.4: Computing: Intro to computer science ch0 -> 6:30 AM
+		- web full stack - Front-End - HTML
+					* 5/2/2026 9:42:00 AM ->
+		- Download Pupa manage Vol 3	
+		
         - create python program - Screenshot program 	
 		- create python program - Video Record 
 				* record your screen or camera or both
@@ -188,11 +163,7 @@
 	    - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
 	    - Upload Miscellaneous to github
 	    - Upload all to flash
-
-
-		- Download Pupa manage Vol 3	
-	   
-	   
+		
         - in work knwoedlge add topics for 
 	       * database
 	       * data warehouses
@@ -208,5 +179,5 @@
 	    
 
 # finished
-		- Section 1.4: Skills: Theoretical - Processes of Memory
-
+		- Section 1.4: Computing: Intro to computer science ch0 -> 6:30 AM
+		- Watch One Piece Live Action Season 2 Episode 5
