@@ -144,14 +144,10 @@
 
 # in Progress
 		- web full stack - Front-End - HTML
-					* 5/2/2026 9:42:00 AM ->
 		- Download Pupa manage Vol 3	
-		
-        - create python program - Screenshot program 	
-		- create python program - Video Record 
-				* record your screen or camera or both
-				* record microphone or system or both
-				* convert content to gif or video
+		- create new topic in Entertainment Blueprint Documentation for create control file for games
+		- create new topic in Entertainment Blueprint Documentation for create control file for saveing file games
+		- create new topic in Entertainment Blueprint Documentation for create control file for achievements level file games
 		- create python program - Notification program to notify 
 					* battery or any system features like heat or gpu and cpu and memory use
 					* notify apps uses in certain condition 
@@ -180,4 +176,9 @@
 
 # finished
 		- Section 1.4: Computing: Intro to computer science ch0 -> 6:30 AM
-		- Watch One Piece Live Action Season 2 Episode 5
+		- Watch One Piece Live Action Season 2 Episode 6
+        - create python program - Screenshot program 	
+		- create python program - Video Record 
+				* make me record your screen
+				* make me choose record Two Audio like microphone and system 
+				* add start, pause, stop
