@@ -144,6 +144,13 @@
 
 # in Progress
 		- web full stack - Front-End - HTML
+		- creat blueprint knoweldge topic status schema -> TO DESCRIBE EACH SATUS HAPPEN TO TOPIC
+		      * created at ..., 
+			  * update at..., 
+			  * Delete at...
+			  * Archeived at...
+			  * replaced with ..., 
+		- add in knoweldge and workknowedlge tables new column is topic status AND STATUS SCHEMA
 		- Download Pupa manage Vol 3	
 		- create new topic in Entertainment Blueprint Documentation for create control file for games
 		- create new topic in Entertainment Blueprint Documentation for create control file for saveing file games
@@ -176,7 +183,7 @@
 
 # finished
 		- Section 1.4: Computing: Intro to computer science ch0 -> 6:30 AM
-		- Watch One Piece Live Action Season 2 Episode 6
+		- Watch One Piece Live Action Season 2 Episode 7
         - create python program - Screenshot program 	
 		- create python program - Video Record 
 				* make me record your screen
