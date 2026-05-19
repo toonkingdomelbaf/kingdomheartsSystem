@@ -1,8 +1,8 @@
 # Future tasks
- - create program to read and write docs file 
- - create program to read and write acess file
- - create program to convert text from form to form 
- - create program to file type from form to form 
+	 - create program to read and write docs file 
+	 - create program to read and write acess file
+	 - create program to convert text from form to form 
+	 - create program to file type from form to form 
   
  
 
@@ -20,9 +20,7 @@
 
 
 	|Social|---
-	   - your mother want to buy new mobile suggest for her suitable mobile according to 
-	      * budget -> 10000 
-		  * possibilities -> good not prefect
+
 
 
 
@@ -34,6 +32,8 @@
 
 
 	|Work knowledge|---
+		- processing and types like (Batch processing and  and Stream processing)
+		- Apache Kafka
 		- Markup Languages -
 		   * HTML
 		   * XML
@@ -76,6 +76,8 @@
 				* screen shot
 				* clip
 				* add image and text
+	- create blueprint topic for Questions and Answers recording file
+	- create blueprint topic for creange map routes description langauges 
 				
 
 	
@@ -99,23 +101,6 @@
 
 
 # queue
-
-	- create two cv one for develoment and one for testing
-    - Uploads to flash
-	   * Miscellaneous	
-	- Download Pupa manage Vol 4
-
-	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
-
-	- Download Pupa manage Vol 5
-	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
-	- Create python program to find files with name or extensions or patterns 
-	- Create python program to find and replace files name 
-	- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]	
-	- create python program to Database Management Tool
-		* don't forget to fix row range problem it takE wrong row_range number
-		* make TVD Order values according to label if have label
-	- web full stack - Front-End - CSS
 	- Download First Anime staff -> Pupa anime
 	- Create python program to compare between two text and Highlight the difference	
 	- Create python program to Create transfer file
@@ -131,35 +116,34 @@
 	- create tabel in storage to label paths
 	- create Suggestion file topic in Standards Blueprint Documentation have
 	   * Suggestion download catgory
-	   * knoweldge topics catgory			
+	   * Suggestion knoweldge topics catgory			
 	- Download First series -> Chernobyl (2019)
 	- Download game staff ->  Commandos: Beyond the Call of Duty
 	- add related account id column to StorageDrives table
 	- transfet current music to Flash
-	
+	- create two cv one for develoment and one for testing
 
 
 
 	
 
-# in Progress
-		- web full stack - Front-End - HTML
-		- creat blueprint knoweldge topic status schema -> TO DESCRIBE EACH SATUS HAPPEN TO TOPIC
-		      * created at ..., 
-			  * update at..., 
-			  * Delete at...
-			  * Archeived at...
-			  * replaced with ..., 
-		- add in knoweldge and workknowedlge tables new column is topic status AND STATUS SCHEMA
+# in Progress		
+		- create question and answers topic in standard  Blueprint 
 		- Download Pupa manage Vol 3	
 		- create new topic in Entertainment Blueprint Documentation for create control file for games
-		- create new topic in Entertainment Blueprint Documentation for create control file for saveing file games
-		- create new topic in Entertainment Blueprint Documentation for create control file for achievements level file games
+		- create new topic in Entertainment Blueprint Documentation for create file for saveing file games Details
+		- create new topic in Entertainment Blueprint Documentation for create file for achievements level file games
 		- create python program - Notification program to notify 
 					* battery or any system features like heat or gpu and cpu and memory use
 					* notify apps uses in certain condition 
 					* notify by time and date like birth day or meeting time
 
+
+		- Uploads to flash
+		   * Miscellaneous	
+		- Download Pupa manage Vol 4
+
+		- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
 	    - create Python program make collection files
 	    - create python program ro comprasion between two textTechniques contents and highlight difference
 
@@ -179,13 +163,14 @@
 	    - create new topic to Knowledge Blueprint Documentation
 	       * Purpose: add to  any source knoweldge new section is optional it has breif denfntion to same Terminologies 
 	    	 it help in understand terms
-	    
+		- Download Pupa manage Vol 5
+		- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+		- Create python program to find files with name or extensions or patterns 
+		- Create python program to find and replace files name 
+		- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]	
+		- create python program to Database Management Tool
+			* don't forget to fix row range problem it takE wrong row_range number
+			* make TVD Order values according to label if have label
+		- web full stack - Front-End - CSS
 
 # finished
-		- Section 1.4: Computing: Intro to computer science ch0 -> 6:30 AM
-		- Watch One Piece Live Action Season 2 Episode 7
-        - create python program - Screenshot program 	
-		- create python program - Video Record 
-				* make me record your screen
-				* make me choose record Two Audio like microphone and system 
-				* add start, pause, stop
