@@ -128,7 +128,6 @@
 	
 
 # in Progress		
-		- create question and answers topic in standard  Blueprint 
 		- Download Pupa manage Vol 3	
 		- create new topic in Entertainment Blueprint Documentation for create control file for games
 		- create new topic in Entertainment Blueprint Documentation for create file for saveing file games Details
