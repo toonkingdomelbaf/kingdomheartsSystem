@@ -1,0 +1,5 @@
+- *to delete all .svg files
+del *.svg
+
+- Delete recursively (current folder + all subfolders):
+del /s *.svg

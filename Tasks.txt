@@ -1,10 +1,17 @@
 # Future tasks
+	 - in Standards Blueprint Documentation create topic to define current query language and create new query language if i want
+	 - in Standards Blueprint Documentation create topic to define current formats and create new format if i want
+	 - create for me query language help me do read data visualization in database and vilizie and execute operations on them 
+	 - create for me query language help me do mathmatical expressions can latter used with other queries language
+	 - create for me query language hep me convert text from form to form and create program can read forms and execute operations on them
+	   and extract data
+ 	 - create Python program make collection files
+	- create python program to Database Management Tool
+	   * don't forget to fix row range problem it takE wrong row_range number
+	   * make TVD Order values according to label if have label
 	 - create program to read and write docs file 
 	 - create program to read and write acess file
-	 - create program to convert text from form to form 
-	 - create program to file type from form to form 
-  
- 
+	 - create program to upload file to program and convert it to link if any other device open this link download uploaded file
 
 # wait
 	|Entertainment|---
@@ -124,13 +131,17 @@
 	- create two cv one for develoment and one for testing
 
 
-
 	
 
-# in Progress		
-		- Download Pupa manage Vol 3	
-		- create new topic in Entertainment Blueprint Documentation for create control file for games
-		- create new topic in Entertainment Blueprint Documentation for create file for saveing file games Details
+
+# in Progress	
+		- create new topic in Task Blueprint Documentation create task file has  a list of tasks must to do and create future tasks category iniside it		
+		- create new topic in Task Blueprint Documentation create achievements topic for specific content or list of content
+		- create new topic in Entertainment Blueprint Documentation for create control file for games (control file in core folder)
+		- create new topic in Entertainment Blueprint Documentation for create file for saveing file games Details (saveing file in core folder)
+		   * like achievements level file game (specific content)
+		   * like achievements finished games (list of content)
+		- create new folder here (D:\Main) is Affairs Folder to save ActorDocuments here
 		- create new topic in Entertainment Blueprint Documentation for create file for achievements level file games
 		- create python program - Notification program to notify 
 					* battery or any system features like heat or gpu and cpu and memory use
@@ -141,9 +152,7 @@
 		- Uploads to flash
 		   * Miscellaneous	
 		- Download Pupa manage Vol 4
-
 		- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
-	    - create Python program make collection files
 	    - create python program ro comprasion between two textTechniques contents and highlight difference
 
 	    - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
@@ -154,7 +163,7 @@
 	       * database
 	       * data warehouses
 
-	    - in Task Blueprint Documentation add new thing in task file add future tasks file for very far tasks
+	    - in in Task Blueprint Documentation add new thing in task file add future tasks file for very far tasks
 	    - create new topic to Task Blueprint Documentation,
 	       * give format and style to describe task in task file
 	       * has this format (puspose and blueprint(structure or mechanisme) 
@@ -167,9 +176,6 @@
 		- Create python program to find files with name or extensions or patterns 
 		- Create python program to find and replace files name 
 		- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]	
-		- create python program to Database Management Tool
-			* don't forget to fix row range problem it takE wrong row_range number
-			* make TVD Order values according to label if have label
 		- web full stack - Front-End - CSS
 
 # finished
