@@ -1,4 +1,7 @@
 # Future tasks
+	 - Create Standards for Body Metrics - body parts (describe each part of body)
+	 - Create Standards for Body Metrics - body positions (describe each part of body)
+	 - Create Standards for Body Metrics - body Movement (describe each part of body)
 	 - in Standards Blueprint Documentation create topic to define current query language and create new query language if i want
 	 - in Standards Blueprint Documentation create topic to define current formats and create new format if i want
 	 - create for me query language help me do read data visualization in database and vilizie and execute operations on them 
@@ -17,12 +20,7 @@
 	|Entertainment|---
 
 
-	|Chapters|---
-		- Section 2.1: Science: Intro to Life science
-		- Section 2.1: Computing: Intro to computer science ch1
-		- Section 2.1: Skills: Theoretical - Types of Memory
-		- Section 2.1: Linguistics: Introduction to Language and Communication - ch3
-		- Section 2.1: Subject: computer user skills - Computers - Computer Basics
+	|knowledge|---
 
 
 
@@ -72,13 +70,9 @@
 	- create topic to determnie static Savings file Financial Blueprint Documentation (which is all cash and invsetment vlues must have before to pay)
 	- create Measurment file topic at Standards Blueprint Documentation
 	- create Measurment file to determine Financial Level Measurement (Rich, poor, or middle class)
-	- create python program - Conversion program 
-				- to convert from ts to mp4 
-				- to convert from mp4 to ts
-				- to convert from mp4 to mp3
 	- create python program - Video player program 
 				* play, pause, repeat single or group of videos and mp3
-				* step back and step forward by nnumber of second you want
+				* step back and step forward by number of second you want
 				* can slow motion 
 				* screen shot
 				* clip
@@ -111,38 +105,47 @@
 	- Download First Anime staff -> Pupa anime
 	- Create python program to compare between two text and Highlight the difference	
 	- Create python program to Create transfer file
-	- Create Standards for Body Metrics - body parts (describe each part of body)
-	- Create Standards for Body Metrics - body positions (describe each part of body)
-	- Create Standards for Body Metrics - body Movement (describe each part of body)	
+	- web full stack - Front-End - JavaScript
+	
 	- Download First movie staff  -> (Roundhay Garden Scene 1888)
 	- create in Information at Basics Category - Explanation SubCategory - [Term, Definition, Definition, Symbol, character, word and types (root word, Prefixes and Suffixes)
 		phrase, Sentence]
 	- create in Information at Basics Category - Explanation SubCategory - [Abstraction, Specification, Generalization, Idea, concept, Mental construct, Thinking, save, Imagination]
 	- create in Information Science, technology, civilization, art and creativity
 	- create in Information at Thoughts Category - mental sprital - which is Abstraction of thome methink activityes process
-	- create tabel in storage to label paths
-	- create Suggestion file topic in Standards Blueprint Documentation have
-	   * Suggestion download catgory
-	   * Suggestion knoweldge topics catgory			
-	- Download First series -> Chernobyl (2019)
+			- Download First series -> Chernobyl (2019)
+	- web full stack - Front-End - Typescript
+	
 	- Download game staff ->  Commandos: Beyond the Call of Duty
 	- add related account id column to StorageDrives table
 	- transfet current music to Flash
 	- create two cv one for develoment and one for testing
+	- update python program folder managment tool update - in Conversion tab at convert from ts to mp4 make sure it convert prefect quality without any disruption
+	- React
+	- Section 2.1: Science: Intro to Life science
+	- Section 2.1: Computing: Intro to computer science ch1
+	- Section 2.1: Skills: Theoretical - Types of Memory
+	- Section 2.1: Linguistics: Introduction to Language and Communication - ch3
+	- Section 2.1: Subject: computer user skills - Computers - Computer Basics
+	- Node.js + Express
 
 
 	
 
 
-# in Progress	
-		- create new topic in Task Blueprint Documentation create task file has  a list of tasks must to do and create future tasks category iniside it		
-		- create new topic in Task Blueprint Documentation create achievements topic for specific content or list of content
+
+
+# in Progress	 
 		- create new topic in Entertainment Blueprint Documentation for create control file for games (control file in core folder)
 		- create new topic in Entertainment Blueprint Documentation for create file for saveing file games Details (saveing file in core folder)
-		   * like achievements level file game (specific content)
-		   * like achievements finished games (list of content)
-		- create new folder here (D:\Main) is Affairs Folder to save ActorDocuments here
-		- create new topic in Entertainment Blueprint Documentation for create file for achievements level file games
+		- Intro to Life science
+		- Intro to Mathematics
+		- Intro to Pure mathematics
+		- Intro to Applied mathematics
+		- Mathematics: Arithmetic
+		- Mathematics: geometry
+		- Mathematics: Algebra
+		- Mathematics: Measurements
 		- create python program - Notification program to notify 
 					* battery or any system features like heat or gpu and cpu and memory use
 					* notify apps uses in certain condition 
@@ -162,8 +165,9 @@
         - in work knwoedlge add topics for 
 	       * database
 	       * data warehouses
-
-	    - in in Task Blueprint Documentation add new thing in task file add future tasks file for very far tasks
+		- php 
+		- Laravel
+		
 	    - create new topic to Task Blueprint Documentation,
 	       * give format and style to describe task in task file
 	       * has this format (puspose and blueprint(structure or mechanisme) 
