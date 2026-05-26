@@ -136,8 +136,6 @@
 
 
 # in Progress	 
-		- create new topic in Entertainment Blueprint Documentation for create control file for games (control file in core folder)
-		- create new topic in Entertainment Blueprint Documentation for create file for saveing file games Details (saveing file in core folder)
 		- Intro to Life science
 		- Intro to Mathematics
 		- Intro to Pure mathematics
