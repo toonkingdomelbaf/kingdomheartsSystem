@@ -1,7 +1,4 @@
 # Future tasks
-	 - Create Standards for Body Metrics - body parts (describe each part of body)
-	 - Create Standards for Body Metrics - body positions (describe each part of body)
-	 - Create Standards for Body Metrics - body Movement (describe each part of body)
 	 - in Standards Blueprint Documentation create topic to define current query language and create new query language if i want
 	 - in Standards Blueprint Documentation create topic to define current formats and create new format if i want
 	 - create for me query language help me do read data visualization in database and vilizie and execute operations on them 
@@ -40,7 +37,6 @@
 		- processing and types like (Batch processing and  and Stream processing)
 		- Apache Kafka
 		- Markup Languages -
-		   * HTML
 		   * XML
 		   * Markdown
 		   * LaTeX
@@ -57,7 +53,6 @@
 		   * LESS
 		   * SVG Styling
 		- Text-based formats - 
-		   * JSON 
 		   * XML 
 		   * CSV 
 		- javascript
@@ -122,50 +117,45 @@
 	- create two cv one for develoment and one for testing
 	- update python program folder managment tool update - in Conversion tab at convert from ts to mp4 make sure it convert prefect quality without any disruption
 	- React
+	- Mathematics: geometry
+	- Mathematics: Algebra	
+	
+	- Create Standards for Body Metrics - body parts (describe each part of body)
+	- Create Standards for Body Metrics - body positions (describe each part of body)
+	- Create Standards for Body Metrics - body Movement (describe each part of body)
 	- Section 2.1: Science: Intro to Life science
 	- Section 2.1: Computing: Intro to computer science ch1
 	- Section 2.1: Skills: Theoretical - Types of Memory
 	- Section 2.1: Linguistics: Introduction to Language and Communication - ch3
 	- Section 2.1: Subject: computer user skills - Computers - Computer Basics
-	- Node.js + Express
 
+	- Node.js + Express
 
 	
 
 
 
 
-# in Progress	 
-		- Intro to Life science
-		- Intro to Mathematics
-		- Intro to Pure mathematics
-		- Intro to Applied mathematics
-		- Mathematics: Arithmetic
-		- Mathematics: geometry
-		- Mathematics: Algebra
-		- Mathematics: Measurements
+# in Progress		
+        - in work knwoedlge add topics for 
+	       * database
+	       * data warehouses
 		- create python program - Notification program to notify 
 					* battery or any system features like heat or gpu and cpu and memory use
 					* notify apps uses in certain condition 
 					* notify by time and date like birth day or meeting time
 
-
-		- Uploads to flash
-		   * Miscellaneous	
 		- Download Pupa manage Vol 4
 		- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
 	    - create python program ro comprasion between two textTechniques contents and highlight difference
 
-	    - API platform at https://drive.google.com/drive/u/0/folders/1dF_giO294QAnW2W2X763b4PeFEwryfjI
-	    - Upload Miscellaneous to github
-	    - Upload all to flash
-		
-        - in work knwoedlge add topics for 
-	       * database
-	       * data warehouses
+
 		- php 
 		- Laravel
 		
+		- mathmatical logic
+		- Set Theory
+
 	    - create new topic to Task Blueprint Documentation,
 	       * give format and style to describe task in task file
 	       * has this format (puspose and blueprint(structure or mechanisme) 
@@ -179,5 +169,8 @@
 		- Create python program to find and replace files name 
 		- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]	
 		- web full stack - Front-End - CSS
+
+		- Mathematics: Arithmetic
+		- Mathematics: Measurements		
 
 # finished
