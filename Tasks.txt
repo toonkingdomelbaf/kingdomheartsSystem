@@ -74,7 +74,12 @@
 				* add image and text
 	- create blueprint topic for Questions and Answers recording file
 	- create blueprint topic for creange map routes description langauges 
-				
+    - create tv shows database
+		* create tv shows table
+		* create tv shows epsiodes table
+	- create plays database
+		* create plays table
+		* create play video table
 
 	
 	
@@ -120,9 +125,9 @@
 	- Mathematics: geometry
 	- Mathematics: Algebra	
 	
-	- Create Standards for Body Metrics - body parts (describe each part of body)
-	- Create Standards for Body Metrics - body positions (describe each part of body)
-	- Create Standards for Body Metrics - body Movement (describe each part of body)
+		- Create Standards for Body Metrics - body parts (describe each part of body)
+		- Create Standards for Body Metrics - body positions (describe each part of body)
+		- Create Standards for Body Metrics - body Movement (describe each part of body)
 	- Section 2.1: Science: Intro to Life science
 	- Section 2.1: Computing: Intro to computer science ch1
 	- Section 2.1: Skills: Theoretical - Types of Memory
